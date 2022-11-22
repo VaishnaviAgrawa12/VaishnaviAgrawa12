@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Vaishnavi Agrawal.
 
 
-![image](https://user-images.githubusercontent.com/105974701/196043107-2bb3c1ed-f59c-4c06-afb4-66aaffbc1cc5.png)
+![image](https://user-images.githubusercontent.com/73159092/106097036-9e8f2980-615c-11eb-9860-5aa437be7fc9.gif)
 
 - 🔭 I’m currently student at  Masai School
 - 🌱 I’m currently learning Java Backend development 
