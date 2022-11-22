@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on Interesting projects on core Java
 - 💬 Ask me about HTML, CSS, Javascript
 - 📫 How to reach me: vaishnaviagrawal2999@gmail.com  
-- Checkout my Resume![a](https://drive.google.com/file/d/10iYvaPf88tzVaf0xfTiFvdonQ1q5LlWi/view?usp=sharing)
+- Checkout my Resume(https://drive.google.com/file/d/10iYvaPf88tzVaf0xfTiFvdonQ1q5LlWi/view?usp=sharing)
 - Checkout my Portfolio
 
 
