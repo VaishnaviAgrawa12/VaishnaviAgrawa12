@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Java, SpringBoot**
 
-- 👨‍💻 All of my projects are available at [https://vaishnaviagrawa12.github.io/](https://vaishnaviagrawa12.github.io/)
+- 👨‍💻 All of my projects are available at <a href='https://vaishnaviagrawa12.github.io/](https://vaishnaviagrawa12.github.io/'>Portfolio</a>
 
-- 💬 Ask me about **HTML, Css, Javascript**
+- 💬 Ask me about **HTML, CSS, Javascript**
 
 - 📫 How to reach me **vaishnaviagrawal2999@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10iYvaPf88tzVaf0xfTiFvdonQ1q5LlWi/view?usp=share_link](https://drive.google.com/file/d/10iYvaPf88tzVaf0xfTiFvdonQ1q5LlWi/view?usp=share_link)
+- 📄 Know about my experiences <a href='https://drive.google.com/file/d/10iYvaPf88tzVaf0xfTiFvdonQ1q5LlWi/view?usp=share_link'>Resume </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
