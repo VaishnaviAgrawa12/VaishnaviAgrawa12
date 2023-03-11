@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Agrawal.</h1>
-<h3 align="center">A passionate Java Backend developer from India</h3>
+<!-- <h3 align="center">A passionate Java Backend developer from India</h3> -->
 <img src="https://user-images.githubusercontent.com/73159092/106097036-9e8f2980-615c-11eb-9860-5aa437be7fc9.gif">
 
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishnaviagrawa12" alt="vaishnaviagrawa12" /></a> </p>
 
-- 🔭 I’m currently learning **Backend development**
+<!-- - 🔭 I’m currently learning **Backend development**
 
-- 🌱 I’m currently learning **Java, SpringBoot**
+- 🌱 I’m currently learning **Java, SpringBoot** -->
 
 - 👨‍💻 All of my projects are available at <a href='https://vaishnaviagrawa12.github.io/](https://vaishnaviagrawa12.github.io/'>Portfolio</a>
 
