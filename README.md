@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **vaishnaviagrawal2999@gmail.com**
 
-- 📄 Know about my experiences <a href='https://drive.google.com/file/d/10iYvaPf88tzVaf0xfTiFvdonQ1q5LlWi/view?usp=share_link'>Resume </a>
+- 📄 Know about my experiences <a href='https://drive.google.com/file/d/1POiExxXcuaRco7p07sR1OLrHwMzDxEOr/view?usp=sharing'>Resume </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
