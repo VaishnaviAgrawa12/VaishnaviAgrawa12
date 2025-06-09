@@ -13,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available at <a href='https://vaishnaviagrawa12.github.io/](https://vaishnaviagrawa12.github.io/'>Portfolio</a>
 
-- 💬 Ask me about **HTML, CSS, Javascript**
+- 💬 Ask me about **Javascript,Java**
 
 - 📫 How to reach me **vaishnaviagrawal2999@gmail.com**
 
-- 📄 Know about my experiences <a href='https://drive.google.com/file/d/1POiExxXcuaRco7p07sR1OLrHwMzDxEOr/view?usp=sharing'>Resume </a>
+- 📄 Know about my experiences <a href='[https://drive.google.com/file/d/1POiExxXcuaRco7p07sR1OLrHwMzDxEOr/view?usp=sharing](https://drive.google.com/file/d/13yvEIAnaGHY8cA3a_ByABom6zFitVzhF/view?usp=sharing)'>Resume </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
