@@ -8,8 +8,7 @@ A REST API that evaluates purchase decisions against your real budget, savings g
 
 ## What I'm working with
 
-Java 21 · Spring Boot 3 · Spring Security + JWT · Spring Data JPA
-PostgreSQL · Docker · GitHub Actions · JUnit 5 + Mockito · Maven
+Java 21 · Spring Boot 3 · Spring Security + JWT · Spring Data · JPA · PostgreSQL · Docker · GitHub Actions · JUnit 5 + Mockito · Maven
 
 ## Recent builds
 
