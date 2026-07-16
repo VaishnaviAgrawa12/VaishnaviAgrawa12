@@ -2,7 +2,7 @@
 
 Java Backend Developer — building with Spring Boot, PostgreSQL, and AI integration.
 
-**[Purchase Decision API](https://github.com/VaishnaviAgrawa12/purchase-decision-api)** → **[Live Demo](purchase-decision-api-production.up.railway.app)**
+**[Purchase Decision API](https://github.com/VaishnaviAgrawa12/purchase-decision-api)** → **[Live Demo](https://purchase-decision-api-production.up.railway.app/swagger-ui/index.html)**
 
 A REST API that evaluates purchase decisions against your real budget, savings goals, and spending history. Rule-based scoring engine with an LLM reasoning layer and graceful fallback.
 
