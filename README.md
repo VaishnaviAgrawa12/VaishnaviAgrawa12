@@ -19,7 +19,7 @@ Java 21 · Spring Boot 3 · Spring Security + JWT · Spring Data · JPA · Postg
 
 ## Currently
 
-- Shipping the Purchase Decision API → [follow the build](purchase-decision-api-production.up.railway.app)
+- Shipping the Purchase Decision API → [follow the build](https://github.com/VaishnaviAgrawa12/purchase-decision-api)
 - Solving DSA in Java on NeetCode
 - Writing about what I build and break → [blog](https://medium.com/@vaishnaviagrawal2999)
 
